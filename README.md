@@ -3,7 +3,7 @@
 ## docker start
 - `sh kicker.sh`
 
-## in docker
+## in container 
 - `docker exec -it bash`
 
 ## gen offline package
